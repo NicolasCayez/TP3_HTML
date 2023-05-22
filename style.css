@@ -1,0 +1,16 @@
+table, th, td{
+    border:solid;
+    border-collapse:collapse;
+}
+
+th{
+    background-color:lightsalmon;
+}
+
+.hayao{
+    background-color:burlywood;
+}
+
+.isao{
+    background-color: khaki;
+}
